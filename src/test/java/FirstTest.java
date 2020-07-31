@@ -17,7 +17,7 @@ public class FirstTest extends BaseTest {
         WebElement number1 = driver.findElement(By.id("num1"));
         number1.sendKeys("5");
         WebElement number2 = driver.findElement(By.id("num2"));
-        number2.sendKeys("13");
+        number2.sendKeys("18");
 
         WebElement btn = driver.findElement(By.xpath("//*[@id=\"sum\"]/button"));
         btn.click();
