@@ -23,7 +23,7 @@ public class FirstTest extends BaseTest {
         btn.click();
 
         int parseInt = Integer.parseInt(driver.findElement(By.id("displayvalue")).getText());
-        Assert.assertEquals(parseInt, 18);
+        Assert.assertEquals(parseInt, 23);
 
     }
 
