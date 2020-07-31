@@ -1,2 +1,2 @@
-My first test with Selenium Web Driver.
-The test checks if the addition is correct.
+My tests with Selenium Web Driver.
+The Test1 checks if the addition is correct.
